@@ -1,27 +1,27 @@
 [
     {
-        "role": "owner",
-        "name": "List Owner",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "role": "Owner",
+        "name": "Pulse [GD]",
+        "link": "https://www.youtube.com/@PulseGMD"
     },
     {
-        "role": "admin",
-        "name": "List Admin",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "role": "Administrator",
+        "name": "Fluxite",
+        "link": "https://www.youtube.com/@FluxiteGMD"
     },
     {
-        "role": "helper",
-        "name": "List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "role": "Level Reviewer",
+        "name": "ImmPotatoGMD",
+        "link": "https://www.youtube.com/@ImPotatoGMD0"
     },
     {
-        "role": "trial",
-        "name": "Trial List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "role": "Trial",
+        "name": "Nobody!",
+        "link": "https://www.youtube.com/@PulseGMD"
     },
     {
-        "role": "dev",
-        "name": "List Coder",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "role": "Developer",
+        "name": "Nobody!",
+        "link": "https://www.youtube.com/@PulseGMD"
     }
 ]
